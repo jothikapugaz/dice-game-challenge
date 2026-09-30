@@ -36,7 +36,7 @@ To play again, simply **refresh the page** to generate a new result.
 
 ```text
 dice-game-challenge/
-├── dicee.html
+├── dice.html
 ├── index.js
 ├── styles.css
 └── images/
